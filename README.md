@@ -1,4 +1,4 @@
-# North Carolina Public Defender Analysis  
+# NC Defense Representation Analysis 
 
 This project analyzes public defender case data in North Carolina for 2023-24. Using data visualization, it highlights case distribution, case length, and trends in public defense.  
 
@@ -16,7 +16,7 @@ Public defenders play a crucial role in the justice system, but managing caseloa
 ## Tableau Dashboard  
 
 The dashboard visualizes key insights, including case distribution, attorney workloads, and case trends.  
-[View the dashboard here](https://public.tableau.com/views/NorthCarolinaPublicDefenderAnalysis2023-24/Dashboard1)  
+[View the dashboard here](https://public.tableau.com/views/NorthCarolinaDefenseRepresentationAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ## Repository Contents  
 
